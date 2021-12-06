@@ -24,4 +24,4 @@ Homepage에서 관심있는 영화 제목을 클릭했을때, 그 영화에 대�
 
 <img width="800" alt="react_detail" src="https://user-images.githubusercontent.com/56289900/144780956-30143457-8131-4eb5-a852-d8a37a1b6bb9.PNG">
 
-구현 링크:[영화 웹사이트 보러가기](https://myungwanpark.github.io/React-basic-project/){: target="_blank"}
+구현 링크:[영화 웹사이트 보러가기][https://myungwanpark.github.io/React-basic-project/]
