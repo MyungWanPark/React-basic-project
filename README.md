@@ -1,6 +1,7 @@
 # React Movie App
 
 영화 정보 api를 활용하여 평점 9점 이상의 영화를 소개해주는 웹 사이트 구현.
+
 <br/>
 
 > 기술스택: React.js의 JSX, State, Props, Class Components, Data Fetching, Routing 을 활용.
